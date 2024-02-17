@@ -2,6 +2,13 @@
 
 ![](images/covers.png)
 
+## Quick Links
+
+1. [BOM (Parts list)](#bom-parts-list)
+1. [3D Printing](#3d-printing)
+1. [Assembling](#assembling)
+1. [Wearing](#wearing)
+
 # Description
 
 This is a SlimeVR case that's designed to flex in 3 places, and be thin and form fitting for comfort.
