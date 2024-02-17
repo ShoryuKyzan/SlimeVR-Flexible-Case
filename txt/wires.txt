@@ -1,0 +1,40 @@
+===================================
+flexible-case
+===================================
+
+all are +10 for 5mm on each side for the wire
+
+black   wire-ground-charger                     110mm
+red     wire-battery-sense-1 (tpu to resistor)  47mm
+red     wire-battery-sense-2 (resistor to D1)   65mm
+red     wire-diode-1-in                         65mm
+red     wire-diode-2-in                         40mm
+red     wire-diodes-out-5v                      50mm
+black   wire-ground-d1                          75mm
+
+ltblue  wire-imu-int                            80mm
+    or other unique color
+red     wire-imu-3v3                            95mm
+blue    wire-imu-sda                            50mm
+green   wire-imu-scl                            55mm
+black   wire-ground-imu                         60mm
+
+==================
+by color
+==================
+black   wire-ground-charger                     110mm
+black   wire-ground-d1                          75mm
+black   wire-ground-imu                         60mm
+red     wire-battery-sense-1 (tpu to resistor)  47mm
+red     wire-battery-sense-2 (resistor to D1)   65mm
+red     wire-diode-1-in                         65mm
+red     wire-diode-2-in                         40mm
+red     wire-diodes-out-5v                      50mm
+red     wire-imu-3v3                            95mm
+
+yellow  wire-imu-int                            80mm
+    or other unique color
+blue    wire-imu-sda                            50mm
+green   wire-imu-scl                            55mm
+
+

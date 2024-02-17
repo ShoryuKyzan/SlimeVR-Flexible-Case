@@ -1,0 +1,59 @@
+===================================
+flexible-case-aux
+===================================
+
+all are +10 for 5mm on each side for the wire
+wire names are from the cad file
+
+black   wire-ground-charger                     110mm
+red     wire-battery-sense-1 (tpu to resistor)  47mm
+red     wire-battery-sense-2 (resistor to D1)   65mm
+red     wire-diode-1-in                         65mm
+red     wire-diode-2-in                         40mm
+red     wire-diodes-out-5v                      50mm
+black   wire-ground-d1 (from switch)            75mm
+black   wire-ground-charger (to switch)         110mm
+black   wire-ground-imu (from switch, both imu) 40mm
+red     wire-imu-both-3v3                       65mm
+ltblue  wire-imu-1-int                          80mm
+    or other unique color
+blue    wire-imu-sda (both imu)                 40mm
+green   wire-imu-scl (both imu)                 40mm
+black   wire-ground-imu-1                       30mm
+red     wire-imu-1-3v3                          40mm
+green   wire-imu-1-scl                          30mm
+blue    wire-imu-1-sda                          25mm
+
+-- could also go right into the aux cable from here, but i didnt do that
+yellow  wire-imu-2-int                          85mm
+red     wire-imu-2-3v3                          30mm
+black   wire-ground-imu-2                       25mm
+green   wire-imu-2-scl                          25mm
+blue    wire-imu-2-sda                          25mm
+
+==================
+by color
+==================
+black   wire-ground-charger                     110mm
+black   wire-ground-d1                          75mm
+black   wire-ground-imu                         40mm
+black   wire-ground-imu-1                       30mm
+red     wire-battery-sense-1 (tpu to resistor)  47mm
+red     wire-battery-sense-2 (resistor to D1)   65mm
+red     wire-diode-1-in                         65mm
+red     wire-diode-2-in                         40mm
+red     wire-diodes-out-5v                      50mm
+red     wire-imu-both-3v3                       65mm
+red     wire-imu-1-3v3                          40mm
+yellow  wire-imu-1-int                          80mm
+    or other unique color
+blue    wire-imu-sda-both                       40mm
+blue    wire-imu-1-sda                          25mm
+green   wire-imu-both-scl                       40mm
+green   wire-imu-1-scl                          30mm
+
+black   wire-ground-imu-2                       25mm
+red     wire-imu-2-3v3                          30mm
+white  wire-imu-2-int                          85mm
+blue    wire-imu-2-sda                          25mm
+green   wire-imu-2-scl                          25mm
