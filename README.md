@@ -204,10 +204,11 @@ To help things slip in, pull outwards from the edge of the case to help parts go
 1. Tuck the D1 into its pocket, USB port first
     * Beware of the reset button. Make sure to not catch this on the edge of the case when inserting it. It could be damaged and ripped off.
 1. Insert the TP4056 into its pocket, USB port first
-1. Except for the DPDT switch, insert the other parts and the wires into their pockets/channels. Make the aux connector come out of the hole.
+1. Except for the DPDT switch and IMU, insert the other parts and the wires into their pockets/channels. Make the aux connector come out of the hole.
 
 Now its time to cover things up.
-1. Insert the switch into its holder in the back cover first.
+1. Insert the switch into its holder in the back cover.
+1. Insert the IMU into its holder. One corner is tucked into the holder and the posts should be put through the holes in the IMU. Fully push down the IMU as much as possible so its flat.
 1. Remove unecessary parts of the back cover with scissors:
     * Cut the 2 D1 holder posts off where they have a slit.
     * Cut the holder post off of the TP4056 part of the cover.
